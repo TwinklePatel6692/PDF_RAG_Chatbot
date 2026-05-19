@@ -1,0 +1,88 @@
+# Core LLM APIs
+openai
+mistralai
+
+# LangChain ecosystem (for RAG pipelines)
+langchain
+langchain-community
+langchain-openai
+langchain-core
+langchain-mistralai
+
+# Alternative framework (optional but powerful)
+llama-index
+
+# Embeddings & Transformers
+sentence-transformers
+transformers
+torch
+
+# Vector Databases (choose one or more)
+faiss-cpu
+chromadb
+pinecone-client
+weaviate-client
+
+# Document Loaders & Parsing
+pypdf
+pdfplumber
+unstructured
+beautifulsoup4
+lxml
+
+# Text Processing
+tiktoken
+nltk
+
+# Backend / API
+fastapi
+uvicorn
+
+# Environment & Config
+python-dotenv
+pydantic
+
+# Utilities
+numpy
+pandas
+scikit-learn
+
+# Async & HTTP
+httpx
+requests
+
+# Logging & Monitoring (optional but useful)
+loguru
+
+# File handling
+python-multipart
+
+# Optional: UI (if building frontend in Python)
+streamlit
+gradio
+
+# to download all the above " uv pip install -r requirements.txt "
+
+openai
+mistralai
+langchain
+langchain-openai
+faiss-cpu
+fastapi
+uvicorn
+python-dotenv
+pydantic
+tiktoken
+requests
+streamlit
+langchain
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-mistralai
+chromadb
+pypdf
+python-dotenv
+openai
+mistralai
+tiktoken
